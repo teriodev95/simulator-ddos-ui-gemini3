@@ -1,0 +1,5 @@
+{
+  "name": "iOS Style DDoS Sim",
+  "description": "Educational visual simulator of network traffic and defense mechanisms with iOS aesthetic.",
+  "requestFramePermissions": []
+}
