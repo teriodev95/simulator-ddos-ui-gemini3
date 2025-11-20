@@ -1,5 +1,5 @@
 {
-  "name": "iOS Style DDoS Sim",
-  "description": "Educational visual simulator of network traffic and defense mechanisms with iOS aesthetic.",
+  "name": "DDoS EduSim - Network Visualizer",
+  "description": "Interactive educational simulator for DDoS attacks and network defenses. Visualize HTTP, SYN, and UDP floods with a premium iOS-style interface, real-time physics particles, and cybersecurity mitigation strategies.",
   "requestFramePermissions": []
 }
